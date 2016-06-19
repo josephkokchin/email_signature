@@ -27,3 +27,4 @@ To import the signature in your email;
 [1]:	https://dribbble.com/shots/1209419-20-Social-Media-Icons-Freebie
 
 [image-1]:	https://github.com/Ricowere/email_signature/blob/master/Assets/example_signature.png "Example"
+
