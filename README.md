@@ -29,3 +29,5 @@ To import the signature in your email;
 
 [image-1]:	https://github.com/josephkokchin/email_signature/blob/master/Assets/example_signature.png "Example"
 
+
+Forked from Ricowere. Many thanks to him for providing the email signature template.
